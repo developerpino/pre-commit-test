@@ -36,7 +36,6 @@
     "consistent-this": ["error", "self"],
     "no-alert": "error",
     "require-yield": "error",
-    "no-extra-parens": ["error", "all"],
     "no-with": "error"
   }
 }
