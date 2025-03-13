@@ -7,7 +7,7 @@
     "build": "next build",
     "start": "next start",
     "lint": "next lint",
-    "postinstall": "husky && cp ./pre-commit ./.husky/_/pre-commit && chmod +x ./.husky/pre-commit"
+    "postinstall": "husky && cp ./pre-commit ./.husky/_/pre-commit && chmod +x ./.husky/_/pre-commit"
   },
   "dependencies": {
     "@react-email/components": "^0.0.7",
